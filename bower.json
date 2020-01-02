@@ -1,0 +1,20 @@
+{
+  "name": "push-notification",
+  "description": "push-notification",
+  "main": "push-notification",
+  "authors": [
+    "kc <karansoni0810@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sweetalert2": "^7.29.2"
+  }
+}
